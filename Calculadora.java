@@ -14,10 +14,10 @@ public class Calculadora {
         int opcio = scanner.nextInt();
         
         // Sol·licitar els números a l'usuari
-        System.out.print("Introdueix el primer número: ");
+        System.out.print("Primer número: ");
         double num1 = scanner.nextDouble();
         
-        System.out.print("Introdueix el segon número: ");
+        System.out.print("Segon número: ");
         double num2 = scanner.nextDouble(); double resultat = 0; // Variable per a emmagatzemar el resultat
 
         // Realitzar l'operació seleccionada
