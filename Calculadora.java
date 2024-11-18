@@ -4,7 +4,7 @@ public class Calculadora {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);  // Mostrar menú d'opcions
         System.out.println("Esta és la meua primera calculadora!");
-        System.out.println("Selecciona una operació:");
+        System.out.println("Quina operació vols fer:");
         System.out.println("1. Suma");
         System.out.println("2. Resta");
         System.out.println("3. Multiplicació");
