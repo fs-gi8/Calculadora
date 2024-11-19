@@ -11,7 +11,7 @@ public class Calculadora {
         System.out.println("4. Divisió");
         System.out.print("Opció: ");
         
-           //provetes de commits del
+          
         
            int opcio = scanner.nextInt();
         
