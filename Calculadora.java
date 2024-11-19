@@ -11,7 +11,9 @@ public class Calculadora {
         System.out.println("4. Divisió");
         System.out.print("Opció: ");
         
-        int opcio = scanner.nextInt();
+           //provetes de commits del
+        
+           int opcio = scanner.nextInt();
         
         // Sol·licitar els números a l'usuari
         System.out.print("Primer número: ");
